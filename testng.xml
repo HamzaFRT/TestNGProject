@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/home/hamza/IdeaProjects/POMProject/src/test/java/POMWithPageFctory/LoginTestNew.java">
+        <classes>
+            <class name="POMWithPageFctory.LoginTestNew">
+            </class>
+        </classes>
+    </test>
+</suite>
