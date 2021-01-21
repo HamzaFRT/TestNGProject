@@ -20,6 +20,7 @@ public class LoginTest {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get("https://demoqa.com/login");
         driver.manage().window().maximize();
+        System.out.println("browser opened");
     }
 
     @Test(priority = 1)
